@@ -42,7 +42,7 @@ color: white;margin-left: 10px;}
 /* inizio footer */
 
 footer{
-border: 1px solid red; width: 100%;height: 100px;margin-top: 30px;
+ width: 100%;height: 100px;margin-top: 30px;
 }
 P{font-weight: 900;color:#2D2D2D;text-align: center;}
 #BUTT{width:70PX;height:30PX;padding:5PX;}
